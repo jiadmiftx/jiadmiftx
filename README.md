@@ -22,17 +22,14 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 
 ## Current activity
 
-- 💻 I'm currently developing <a href="https://github.com/fauzan121002/denovel/tree/development">denovel</a> and some freelance projects.
-- 📖 I’m currently learning deno and golang;
-- 🤔 My interests are with front-end & backend then i decide to do fullstack;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering;
+- 💻 I'm currently part-time at <a href="https://linov.id">Lumbung Inovasi</a> and some freelance projects.
+- 📖 I’m currently learning Flutter and Deep Learning;
+- 💼 I’m pursuing a Bachelor's degree in Computer Science at <a href="https://universitasbumigora.ac.id">Bumigora University</a>;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via developerfauzan@asraja.com to reach me.
-- 📝 See my <a href="https://www.linkedin.com/in/developerfauzan/">linked.in</a> to get more info.
+- 📫 Please email via jiadibo.miftah@gmail.com to reach me.
+- 📝 See my <a href="https://www.linkedin.com/in/miftahuljihad/">linked.in</a> to get more info.
 
 ## Get in touch
 
-- Twitter: https://twitter.com/fauzandotjs
-- Personal site: https://fauzan.tech
-- Instagram : https://instagram.com/fauzan121002
-- Telegram : https://t.me/fauzandotjs
+- Personal site: https://jiad-dev.github.io
+- Instagram : https://instagram.com/jiad.io
