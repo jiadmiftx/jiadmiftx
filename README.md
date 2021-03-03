@@ -1,4 +1,4 @@
-Quality Muslim Coder, Tech Savy.
+dunia ini sementara boi.
 
 # Miftahul Jihad
 
