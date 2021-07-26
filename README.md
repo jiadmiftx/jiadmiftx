@@ -6,7 +6,7 @@ Hi, I'm Miftahul Jihad 👨 (he/him)—a freelance at Home. I live in West Nusa 
 
 ## My Github Performance
 
-![github stats](https://github-readme-stats.vercel.app/api?username=jiad-dev&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=jiadmiftx&show_icons=true)
 
 ## My values
 
