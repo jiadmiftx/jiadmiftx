@@ -22,8 +22,8 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 
 ## Current activity
 
-- 💻 I'm currently part-time at <a href="https://linov.id">Lumbung Inovasi</a> and some freelance projects.
-- 📖 I’m currently learning Flutter and Deep Learning;
+- 💻 I'm currently part of <a href="https://castellumdigital.org">Castellum Digital ID</a> and doing some freelance projects.
+- 📖 I’m currently learning Software engineering using Flutter;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science at <a href="https://universitasbumigora.ac.id">Bumigora University</a>;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via jiadibo.miftah@gmail.com to reach me.
@@ -31,5 +31,5 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 
 ## Get in touch
 
-- Personal site: https://jiad-dev.github.io
-- Instagram : https://instagram.com/jiad.io
+- Personal site: https://jiadmiftx.github.io
+- Instagram : https://instagram.com/jiadmiftx
